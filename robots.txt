@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roobaexeet.stickybit.co.nz/sitemap.xml
